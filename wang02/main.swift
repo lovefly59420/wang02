@@ -13,9 +13,23 @@ print("Hello, World!")
 myint()
 myary()
 ary2test()
+poker()
 
 
 
+
+
+var v1 = 12   //Int
+var v2 = 12.0   //Double
+//if v1 == v2{    //不同型別不能比較
+//
+//}
+print(round(12.7))
+
+
+
+
+mystr()
 
 
 
